@@ -1,5 +1,5 @@
 /* STEP 1 */
-#QUOTE_3_FLAG {
+#QUOTE_3_HIGHLIGHT {
     opacity: 0;
     animation-name: zero;
     animation-delay: 4800ms;
@@ -16,7 +16,7 @@
     animation-name: zero;
     animation-delay: 5500ms;
 }
-#QUOTE_3_HIGHLIGHT {
+#QUOTE_3_FLAG {
     opacity: 0;
     animation-name: zero;
     animation-delay: 5500ms;
