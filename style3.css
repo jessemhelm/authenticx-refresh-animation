@@ -1,0 +1,37 @@
+/* STEP 1 */
+#QUOTE_3_FLAG {
+    opacity: 0;
+    animation-name: zero;
+    animation-delay: 4800ms;
+}
+
+/* STEP 2 */
+#QUOTE_3_SOUND {
+    opacity: 30%;
+    animation-name: thirty;
+    animation-delay: 5500ms;
+}
+#QUOTE_3_SOUND_BOX {
+    opacity: 0;
+    animation-name: zero;
+    animation-delay: 5500ms;
+}
+#QUOTE_3_HIGHLIGHT {
+    opacity: 0;
+    animation-name: zero;
+    animation-delay: 5500ms;
+}
+
+/* STEP 3 */
+#QUOTE_3_PIE {
+    opacity: 30%;
+    animation-name: thirty;
+    animation-delay: 6000ms;
+}
+#QUOTE_3_LABEL {
+    opacity: 30%;
+    animation-name: thirty;
+    animation-delay: 6000ms;
+}
+
+/* add 4000ms */
